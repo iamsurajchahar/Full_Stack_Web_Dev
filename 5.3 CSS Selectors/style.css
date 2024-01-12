@@ -1,0 +1,16 @@
+h1 {
+  margin-left: 400px;
+  margin-top: 30px;
+  list-style-position: inside;
+}
+h2{
+  margin-left: 300px;
+  margin-top: 10px;
+  list-style-position: inside;
+}
+.note{
+  color: blue;
+}
+
+
+/* Write your CSS below, don't change the rules above. */

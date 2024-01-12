@@ -1,0 +1,19 @@
+/* Don't change the existing CSS. */
+
+.box {
+  background-color: blue;
+  padding: 10px;
+}
+
+p {
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+#outer-box{
+  background-color: darkorchid;
+  margin: 20px;
+}
+.inner-box{
+  background-color: red;
+}
